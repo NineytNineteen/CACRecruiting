@@ -1,1 +1,1 @@
-Try to commit and ignore this document.
+Try to commit.
